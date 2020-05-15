@@ -12,6 +12,6 @@ Flutter Food Ordering App made with Dart
 - Manage your cart , edit and delete your orders list.
 
 # ScreenShots:
-<img src="Images/1.png" width="280" height="550"> <img src="Images/2.png" width="280" height="550"> <img src="Images/3.png" width="280" height="550">
+<img src="Images/1.png" width="280" height="450"> <img src="Images/2.png" width="280" height="550"> <img src="Images/3.png" width="280" height="550">
 <img src="Images/4.png" width="280" height="550"> <img src="Images/5.png" width="280" height="550"> <img src="Images/6.png" width="280" height="550">
 <img src="Images/7.png" width="280" height="550"> <img src="Images/8.png" width="280" height="550">
